@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+PyMuPDF
+pytesseract
+Pillow
+indic-transliteration
